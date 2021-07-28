@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **divyanshmittal37@gmail.com**
 
+- ⚡ Fun fact **On my 36th birthday, the "Unix Epoch Time" will exceed the size of a signed 32-bit integer, but still, something like "Y2038" happening seems highly unlikely**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyansh-mittal-a910931ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-mittal-a910931ba" height="30" width="40" /></a>
@@ -25,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshmittal-exe&show_icons=true&locale=en" alt="divyanshmittal-exe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshmittal-exe&" alt="divyanshmittal-exe" /></p>
+
