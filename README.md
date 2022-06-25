@@ -10,6 +10,7 @@
 - 📫 How to reach me **divyanshmittal37@gmail.com**
 
 - ⚡ Fun fact **On my 36th birthday, the "Unix Epoch Time" will exceed the size of a signed 32-bit integer, but still, something like "Y2038" happening seems highly unlikely**
+- Status: strerror(130)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshmittal-exe&show_icons=true&locale=en" alt="divyanshmittal-exe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshmittal-exe&" alt="divyanshmittal-exe" /></p>
-
