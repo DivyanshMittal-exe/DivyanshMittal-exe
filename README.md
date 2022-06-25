@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshmittal-exe&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshmittal-exe" /> </p>
 
-- 🌱 I’m currently exploring **Web Development**
+- 🌱 I’m currently exploring: **Machine Learning and Quantitative Finance**
 
-- 👨‍💻 Know more about me at [https://divyanshmittal-exe.github.io/](https://divyanshmittal-exe.github.io/)
+- 👨‍💻 Know more about me: [https://divyanshmittal-exe.github.io/](https://divyanshmittal-exe.github.io/)
 
-- 📫 How to reach me **divyanshmittal37@gmail.com**
+- 📫 How to reach me: **divyanshmittal37@gmail.com**
 
-- ⚡ Fun fact **On my 36th birthday, the "Unix Epoch Time" will exceed the size of a signed 32-bit integer, but still, something like "Y2038" happening seems highly unlikely**
-- Status: strerror(130)
+- ⚡ Fun fact: **On my 36th birthday, the "Unix Epoch Time" will exceed the size of a signed 32-bit integer, but still, something like "Y2038" happening seems highly unlikely**
+- :palm_tree: Status: strerror(130)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
